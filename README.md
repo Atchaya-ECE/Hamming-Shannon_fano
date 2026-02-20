@@ -181,14 +181,10 @@ print("Variance:", var)
 
 # Output
 # HUFFMAN CODING
-```
 <img width="395" height="346" alt="image" src="https://github.com/user-attachments/assets/575f5ee0-bf1b-4988-8f75-f44f98ad31ab" />
-```
 
 # Shannon-Fano Coding
-```
 ![WhatsApp Image 2026-02-20 at 10 10 28 PM](https://github.com/user-attachments/assets/bcb3ae2f-966b-47db-b3ad-3a0bd5048f43)
-```
 
 # Results:
 The Huffman and Shannon-Fano of the given statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} using python are verified.
