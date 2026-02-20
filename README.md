@@ -53,7 +53,7 @@ print(f"Variance is : {var}")
 <img width="1138" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f1f2074-6cf4-4cd5-9583-4d0b69b39f6c" />
 
 # Output
-
+```
 Enter the number of Samples : 7
 Enter the probability of sample values 1: 0.25
 Enter the probability of sample values 2: 0.25
@@ -74,6 +74,7 @@ Entropy is : 2.625
 Efficiency is : 1.0
 Redudancy is : 0.0
 Variance is : 0.484
+```
 # Results:
 
 For the given discrete memoryless source with probabilities
