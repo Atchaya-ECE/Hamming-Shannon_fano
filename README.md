@@ -177,7 +177,8 @@ print("Variance:", var)
 # Calculation:
 ![WhatsApp Image 2026-02-20 at 9 18 43 PM](https://github.com/user-attachments/assets/2ee0e975-620b-494a-819b-fab1ecb6b7de)
 ![WhatsApp Image 2026-02-20 at 9 19 12 PM](https://github.com/user-attachments/assets/a48817d6-6e3d-418a-8b1e-88172e34e475)
-![WhatsApp Image 2026-02-20 at 9 19 12 PM](https://github.com/user-attachments/assets/eef713c0-c82f-41a4-8c5b-c7aed2876ef7)
+![WhatsApp Image 2026-02-20 at 9 21 42 PM](https://github.com/user-attachments/assets/c9c54903-6043-4265-bd88-7ff758f3011b)
+
 
 # Output
 # HUFFMAN CODING
